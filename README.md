@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristiangarc
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on projects relating to transportation, energy, or global warming
 - 📫 How to reach me: crisg@sas.upenn.edu
 
