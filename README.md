@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristiangarc
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects relating to web development and design
 - 📫 How to reach me: cristiangarcia1@duck.com
 <!---
